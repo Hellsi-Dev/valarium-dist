@@ -10,12 +10,16 @@
       "mainServer": true,
       "autoconnect": false,
       "order": 0,
+
+      "minecraftVersion": "1.12.2",           
+      "java": { "version": 8 },                
+
       "versions": [
         {
           "id": "forge-1.12.2",
           "recommended": true,
           "minecraftVersion": "1.12.2",
-          "manifest": "https://raw.githubusercontent.com/Hellsi-Dev/valarium-dist/main/distribution.json"
+          "manifest": "https://raw.githubusercontent.com/Hellsi-Dev/valarium-dist/main/valarium-1.12.2.json"
         }
       ]
     }

@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "servers": [
+    {
+      "id": "valarium",
+      "name": "Valarium Dev",
+      "description": "Env de dev - Forge 1.12.2",
+      "icon": "https://raw.githubusercontent.com/Hellsi-Dev/valarium-dist/main/icon.png",
+      "address": "127.0.0.1",
+      "mainServer": true,
+      "autoconnect": false,
+      "order": 0,
+      "versions": [
+        {
+          "id": "forge-1.12.2",
+          "recommended": true,
+          "minecraftVersion": "1.12.2",
+          "manifest": "https://raw.githubusercontent.com/<TON_USER>/<TON_REPO>/main/valarium-1.12.2.json"
+        }
+      ]
+    }
+  ]
+}

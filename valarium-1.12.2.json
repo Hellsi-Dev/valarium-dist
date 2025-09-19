@@ -1,0 +1,19 @@
+{
+  "formatVersion": 1,
+  "name": "Valarium Dev",
+  "game": {
+    "minecraftVersion": "1.12.2",
+    "modloader": {
+      "type": "forge",
+      "version": "14.23.5.2860"
+    }
+  },
+  "mods": {
+    "required": [],
+    "optional": []
+  },
+  "overrides": {
+    "files": [],
+    "remove": []
+  }
+}

@@ -15,7 +15,7 @@
           "id": "forge-1.12.2",
           "recommended": true,
           "minecraftVersion": "1.12.2",
-          "manifest": "https://cdn.jsdelivr.net/gh/Hellsi-Dev/valarium-dist@main/distribution.json"
+          "manifest": "https://raw.githubusercontent.com/Hellsi-Dev/valarium-dist/main/distribution.json"
         }
       ]
     }

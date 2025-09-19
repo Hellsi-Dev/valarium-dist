@@ -1,34 +1,24 @@
 {
   "version": 1,
-  "rss": [],
-  "modules": [],
   "servers": [
     {
-      "id": "valarium",
-      "name": "Valarium Dev",
-      "description": "Forge 1.12.2 (dev, sans mods)",
-      "icon": "https://raw.githubusercontent.com/Hellsi-Dev/valarium-dist/main/icon.png",
-      "address": "127.0.0.1",
+      "id": "valarium-1.12.2",
+      "name": "Valarium 1.12.2",
       "mainServer": true,
-      "autoconnect": false,
-      "order": 0,
-
+      "address": "localhost:25565",
       "minecraftVersion": "1.12.2",
-      "java": { "version": 8, "options": { "jvmArgs": [], "gameArgs": [] } },
 
-      "rss": [],
-      "modules": [],
-
-      "versions": [
+      "modules": [
         {
-          "id": "forge-1.12.2",
-          "type": "release",
-          "recommended": true,
-          "minecraftVersion": "1.12.2",
-          "manifest": "https://raw.githubusercontent.com/Hellsi-Dev/valarium-dist/main/valarium-1.12.2.json",
-          "releaseTime": "2025-01-01T00:00:00Z",
-          "tags": [],
-          "modules": []
+          "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860",
+          "name": "Forge 1.12.2-14.23.5.2860",
+          "type": "ForgeHosted",
+          "artifact": {
+            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar",
+            "size": 0,
+            "MD5": "REPLACE_ME"
+          },
+          "subModules": []
         }
       ]
     }

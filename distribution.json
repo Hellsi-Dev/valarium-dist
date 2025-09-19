@@ -4,7 +4,7 @@
     {
       "id": "valarium",
       "name": "Valarium Dev",
-      "description": "Env de dev - Forge 1.12.2",
+      "description": "Forge 1.12.2 (dev, sans mods)",
       "icon": "https://raw.githubusercontent.com/Hellsi-Dev/valarium-dist/main/icon.png",
       "address": "127.0.0.1",
       "mainServer": true,

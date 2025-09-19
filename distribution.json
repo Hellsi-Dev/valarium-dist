@@ -11,15 +11,21 @@
       "autoconnect": false,
       "order": 0,
 
-      "minecraftVersion": "1.12.2",           
-      "java": { "version": 8 },                
+      "minecraftVersion": "1.12.2",
+      "java": { "version": 8 },
+
+      "modules": [],          // tableaux explicitement vides pour éviter .map sur undefined
+      "rss": [],
 
       "versions": [
         {
           "id": "forge-1.12.2",
+          "type": "release",
           "recommended": true,
           "minecraftVersion": "1.12.2",
-          "manifest": "https://raw.githubusercontent.com/Hellsi-Dev/valarium-dist/main/valarium-1.12.2.json"
+          "manifest": "https://raw.githubusercontent.com/Hellsi-Dev/valarium-dist/main/valarium-1.12.2.json",
+          "releaseTime": "2025-01-01T00:00:00Z",
+          "tags": []
         }
       ]
     }

@@ -12,16 +12,18 @@
       "java": { "version": 8 },
 
       "modules": [
-        {
-          "id": "forge-1.12.2-14.23.5.2860",
-          "name": "Forge 1.12.2-14.23.5.2860",
-          "type": "ForgeHosted",
-          "artifact": {
-            "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar"
-          },
-          "subModules": []
-        }
-      ],
+  {
+    "id": "net.minecraftforge:forge:1.12.2-14.23.5.2860",
+    "name": "Forge 1.12.2-14.23.5.2860",
+    "type": "ForgeHosted",
+    "artifact": {
+      "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar",
+      "MD5": "PASTE_MD5_HERE",
+      "size": PASTE_SIZE_IN_BYTES_HERE
+    },
+    "subModules": []
+  }
+],
 
       "versions": [
         {

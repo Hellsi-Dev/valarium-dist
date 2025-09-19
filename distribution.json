@@ -18,7 +18,7 @@
     "type": "ForgeHosted",
     "artifact": {
       "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar",
-      "MD5": "PASTE_MD5_HERE",
+      "MD5": "07317d2a117a03bdac69962038e5d3f7",
       "size": 32
     },
     "subModules": []

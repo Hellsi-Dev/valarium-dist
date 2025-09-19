@@ -4,14 +4,12 @@
   "game": {
     "minecraftVersion": "1.12.2",
 
-    /* Ces 3 lignes suffisent souvent… */
+ 
     "modloader": { "type": "forge", "version": "14.23.5.2860" },
 
-    /* …mais on ajoute ces 2 doublons pour être compatibles avec d'autres variantes Helios */
     "modLoader": "forge",
     "modLoaderVersion": "14.23.5.2860",
 
-    /* Et cet id complet aide certains parseurs Forge 1.12.2 */
     "modLoaderId": "forge-1.12.2-14.23.5.2860"
   },
   "mods": {

@@ -36,8 +36,6 @@
           "type": "ForgeHosted",
           "artifact": {
             "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar"
-            /* Astuce: si tu veux verrouiller l’intégrité plus tard,
-               ajoute "MD5": "<hash>", "size": <octets> */
           },
           "subModules": []
         }
